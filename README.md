@@ -1,16 +1,16 @@
-## Hi there 👋
+## DarenSensei
 
-<!--
-**DarenSensei/DarenSensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*The only easy day was yesterday.*
 
-Here are some ideas to get you started:
+I'm a software developer who builds web apps, management systems, and games. I enjoy turning everyday problems into simple, working software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=php,html,css,js,mysql,lua" alt="PHP, HTML, CSS, JavaScript, MySQL, Lua" />
+
+### Projects
+
+| | |
+| --- | --- |
+| [Computer Repair Management System](https://github.com/DarenSensei/Computer-Repair-Management-System-Web-) | Web system for tracking computer repair jobs |
+| [Farmer Finder](https://github.com/DarenSensei/Farmer-Finder) | Demo app for finding local farmers |
+| [Kamote Crunch](https://github.com/DarenSensei/Kamote-Crunch) | Website for Kamote Crunch |
+| [GrowAFilipino](https://github.com/DarenSensei/GrowAFilipino) | Game project built in Lua |
