@@ -15,10 +15,15 @@
 
 I'm a software developer who builds web, desktop, and mobile apps, plus the occasional game. I enjoy turning everyday problems into simple, working software.
 
+- 🎓 **Computer Engineering** graduate
+- ☁️ **Certified Cloud System Analyst (CCSA)**
 - 🖥️ Building desktop apps with **Tauri v2**, **React**, and **TypeScript**
 - 📱 Writing Android apps in **Kotlin**
 - ⚙️ Comfortable from **C++** and **C#** down to **PHP** backends
 - 🖧 Setting up diskless boot networks with **iCafe8** and **CCBoot**
+
+<img src="https://img.shields.io/badge/BS-Computer%20Engineering-1e3a8a?style=for-the-badge" alt="BS Computer Engineering" />
+<img src="https://img.shields.io/badge/Certified-Cloud%20System%20Analyst%20(CCSA)-7c3aed?style=for-the-badge" alt="Certified Cloud System Analyst (CCSA)" />
 
 <br clear="right" />
 
