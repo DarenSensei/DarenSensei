@@ -18,6 +18,7 @@ I'm a software developer who builds web, desktop, and mobile apps, plus the occa
 - 🖥️ Building desktop apps with **Tauri v2**, **React**, and **TypeScript**
 - 📱 Writing Android apps in **Kotlin**
 - ⚙️ Comfortable from **C++** and **C#** down to **PHP** backends
+- 🖧 Setting up diskless boot networks with **iCafe8** and **CCBoot**
 
 <br clear="right" />
 
@@ -38,6 +39,13 @@ I'm a software developer who builds web, desktop, and mobile apps, plus the occa
   <tr>
     <td align="center"><b>Web &amp; Data</b></td>
     <td><img src="https://skillicons.dev/icons?i=html,css,mysql" alt="HTML, CSS, MySQL" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Systems</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/iCafe8-Diskless-1e3a8a?style=for-the-badge" alt="iCafe8 Diskless" />
+      <img src="https://img.shields.io/badge/CCBoot-Diskless-7c3aed?style=for-the-badge" alt="CCBoot Diskless" />
+    </td>
   </tr>
 </table>
 
