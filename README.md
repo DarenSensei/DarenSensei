@@ -23,7 +23,7 @@ I'm a software developer who builds web, desktop, and mobile apps, plus the occa
 - 🖧 Setting up diskless boot networks with **iCafe8** and **CCBoot**
 
 <img src="https://img.shields.io/badge/BS-Computer%20Engineering-1e3a8a?style=for-the-badge" alt="BS Computer Engineering" />
-<img src="https://img.shields.io/badge/Certified-Cloud%20System%20Analyst%20(CCSA)-7c3aed?style=for-the-badge" alt="Certified Cloud System Analyst (CCSA)" />
+<img src="https://img.shields.io/badge/Certified-Cloud%20System%20Analyst%20%28CCSA%29-7c3aed?style=for-the-badge" alt="Certified Cloud System Analyst (CCSA)" />
 
 <br clear="right" />
 
@@ -58,6 +58,8 @@ I'm a software developer who builds web, desktop, and mobile apps, plus the occa
 
 | Project | What it is |
 | --- | --- |
+| 📦 **Department of Agriculture-IMS** 🔒 | Private repository |
+| 📚 **Department of Agriculture-BLMS** 🔒 | Private repository |
 | 🔧 [Computer Repair Management System](https://github.com/DarenSensei/Computer-Repair-Management-System-Web-) | Web system for tracking computer repair jobs |
 | 🌾 [Farmer Finder](https://github.com/DarenSensei/Farmer-Finder) | Demo app for finding local farmers |
 | 🍠 [Kamote Crunch](https://github.com/DarenSensei/Kamote-Crunch) | Website for Kamote Crunch |
